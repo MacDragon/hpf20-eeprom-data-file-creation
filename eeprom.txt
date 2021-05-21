@@ -1,0 +1,21 @@
+fver=EEPROMV0.1
+active=0
+steeringinput=6539, 13300, 20000, 33500, 63019
+steeringoutput=-210,  -120,  -90,   0,    210
+brakerpresinput=14100, 62915
+brakerpresoutput=0, 240
+brakefpresinput=14100, 62915
+brakefpresoutput=0, 240
+
+braketravinput=1024,2048, 60000, 64000
+torquereqlinput=1200, 53000
+torquereqrinput=1200, 53000
+pedalcurveinput1=50,950
+pedalcurveoutput1=0,1000
+pedalcurveinput2=50,500
+pedalcurveoutput2=0,1000
+pedalcurveinput3=50,600, 950
+pedalcurveoutput3=0, 400,1000
+coolantinput=1001,4235, 4851, 5661, 6889, 8952, 11246, 14262, 18894, 22968, 27081, 33576, 39050, 44819, 49192, 54011, 58954,  64113, 64112
+coolantoutput=-1,   120,   115,  109,  101,   90,    82,    72,    60,    52,    46,    38,    32,    26,    22,    16,    11,    6, -1
+drivingmodeinput=4500, 13500, 23500, 33000, 40000, 49000, 57500, 65534
